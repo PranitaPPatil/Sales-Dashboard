@@ -1,6 +1,6 @@
 # Sales-Dashboard
 
-**Power BI Sales Dashboard Description:**
+**Power BI Sales Dashboard**
 
 The **Sales Dashboard** provides a comprehensive and interactive visualization of key sales performance metrics, enabling data-driven decision-making for business growth. This dashboard offers real-time insights into sales trends, regional performance, product-wise sales distribution, and customer behavior.
 
